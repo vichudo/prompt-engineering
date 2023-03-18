@@ -162,3 +162,59 @@ Choose from 50 different constraint examples to guide the AI's understanding of 
 | Do not use any abbreviations or acronyms                 | Language        | ⭐⭐⭐⭐   |
 | Include real-world examples                              | Examples        | ⭐⭐⭐⭐⭐ |
 | Do not reference any specific events or news stories     | References      | ⭐⭐⭐⭐   |
+
+# Output Format Examples
+
+Choose from 50 different output format examples to guide the AI's understanding of the desired presentation of the response. Mix and match these components with other prompt elements to achieve the desired results.
+
+| Output Format                                     | Category       | Quality    |
+| ------------------------------------------------- | -------------- | ---------- |
+| Provide a step-by-step guide                      | Guide          | ⭐⭐⭐⭐⭐ |
+| Write a short essay                               | Essay          | ⭐⭐⭐⭐   |
+| Create a bullet-point list                        | List           | ⭐⭐⭐⭐⭐ |
+| Write a dialogue between two characters           | Dialogue       | ⭐⭐⭐⭐   |
+| Compose a poem                                    | Poem           | ⭐⭐⭐⭐⭐ |
+| Create an infographic                             | Infographic    | ⭐⭐⭐⭐   |
+| Write a news article                              | News article   | ⭐⭐⭐⭐⭐ |
+| Draft a letter                                    | Letter         | ⭐⭐⭐⭐   |
+| Provide a SWOT analysis                           | Analysis       | ⭐⭐⭐⭐⭐ |
+| Write a script for a video                        | Script         | ⭐⭐⭐⭐   |
+| Present a mind map                                | Mind map       | ⭐⭐⭐⭐⭐ |
+| Write a short story                               | Story          | ⭐⭐⭐⭐   |
+| Provide a comparison table                        | Table          | ⭐⭐⭐⭐⭐ |
+| Draft a business proposal                         | Proposal       | ⭐⭐⭐⭐   |
+| Create a timeline of events                       | Timeline       | ⭐⭐⭐⭐⭐ |
+| Write a press release                             | Press release  | ⭐⭐⭐⭐   |
+| Provide a summary in a tweet-length message       | Summary        | ⭐⭐⭐⭐⭐ |
+| Write a blog post                                 | Blog post      | ⭐⭐⭐⭐   |
+| Create a flowchart                                | Flowchart      | ⭐⭐⭐⭐⭐ |
+| Draft an email                                    | Email          | ⭐⭐⭐⭐   |
+| Write a technical report                          | Report         | ⭐⭐⭐⭐⭐ |
+| Create a FAQ (Frequently Asked Questions) section | FAQ            | ⭐⭐⭐⭐   |
+| Provide a detailed case study                     | Case study     | ⭐⭐⭐⭐⭐ |
+| Write a product review                            | Review         | ⭐⭐⭐⭐   |
+| Create a slide presentation                       | Presentation   | ⭐⭐⭐⭐⭐ |
+| Write an opinion piece                            | Opinion        | ⭐⭐⭐⭐   |
+| Provide a list of pros and cons                   | List           | ⭐⭐⭐⭐⭐ |
+| Draft a speech                                    | Speech         | ⭐⭐⭐⭐   |
+| Write a how-to tutorial                           | Tutorial       | ⭐⭐⭐⭐   |
+| Write a how-to tutorial                           | Tutorial       | ⭐⭐⭐⭐⭐ |
+| Create a mock interview                           | Interview      | ⭐⭐⭐⭐   |
+| Write an annotated bibliography                   | Bibliography   | ⭐⭐⭐⭐⭐ |
+| Provide a list of best practices                  | Best practices | ⭐⭐⭐⭐   |
+| Draft a policy recommendation                     | Recommendation | ⭐⭐⭐⭐⭐ |
+| Write an executive summary                        | Summary        | ⭐⭐⭐⭐   |
+| Create a quiz                                     | Quiz           | ⭐⭐⭐⭐⭐ |
+| Write a personal reflection                       | Reflection     | ⭐⭐⭐⭐   |
+| Provide a list of resources                       | Resources      | ⭐⭐⭐⭐⭐ |
+| Write a fact sheet                                | Fact sheet     | ⭐⭐⭐⭐   |
+| Create a checklist                                | Checklist      | ⭐⭐⭐⭐⭐ |
+| Write a white paper                               | White paper    | ⭐⭐⭐⭐   |
+| Provide an annotated diagram                      | Diagram        | ⭐⭐⭐⭐⭐ |
+| Draft a meeting agenda                            | Agenda         | ⭐⭐⭐⭐   |
+| Write a product description                       | Description    | ⭐⭐⭐⭐⭐ |
+| Create a visual metaphor                          | Metaphor       | ⭐⭐⭐⭐   |
+| Provide a set of key takeaways                    | Takeaways      | ⭐⭐⭐⭐⭐ |
+| Write a user guide                                | User guide     | ⭐⭐⭐⭐   |
+| Create a concept map                              | Concept map    | ⭐⭐⭐⭐⭐ |
+| Write an elevator pitch                           | Pitch          | ⭐⭐⭐⭐   |
