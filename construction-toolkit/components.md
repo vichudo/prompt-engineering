@@ -53,3 +53,59 @@ Choose from 50 different context examples to provide background information or c
 | From a policy-making perspective...                  | Perspective       | ⭐⭐⭐⭐⭐ |
 | Given the regulatory environment of...               | Regulation        | ⭐⭐⭐⭐   |
 | As a user of...                                      | User              | ⭐⭐⭐⭐⭐ |
+
+# Goal Examples
+
+Choose from 50 different goal examples to guide the AI's understanding of the desired outcome or objective of the prompt. Mix and match these components with other prompt elements to achieve the desired results.
+
+| Goal                                       | Category        | Quality    |
+| ------------------------------------------ | --------------- | ---------- |
+| Write a summary of...                      | Summary         | ⭐⭐⭐⭐⭐ |
+| Explain the concept of...                  | Explanation     | ⭐⭐⭐⭐   |
+| Compare and contrast...                    | Comparison      | ⭐⭐⭐⭐⭐ |
+| Provide a step-by-step guide for...        | Guide           | ⭐⭐⭐⭐   |
+| List the key features of...                | Listing         | ⭐⭐⭐⭐⭐ |
+| Critique the argument of...                | Critique        | ⭐⭐⭐⭐   |
+| Develop a plan for...                      | Planning        | ⭐⭐⭐⭐⭐ |
+| Suggest improvements for...                | Suggestions     | ⭐⭐⭐⭐   |
+| Identify the main challenges of...         | Identification  | ⭐⭐⭐⭐⭐ |
+| Propose a solution for...                  | Problem-solving | ⭐⭐⭐⭐   |
+| Create a fictional story about...          | Creativity      | ⭐⭐⭐⭐⭐ |
+| Analyze the impact of...                   | Analysis        | ⭐⭐⭐⭐   |
+| Outline a strategy for...                  | Strategy        | ⭐⭐⭐⭐⭐ |
+| Describe the process of...                 | Description     | ⭐⭐⭐⭐   |
+| Evaluate the pros and cons of...           | Evaluation      | ⭐⭐⭐⭐⭐ |
+| Predict the future trends in...            | Prediction      | ⭐⭐⭐⭐   |
+| Clarify the misconceptions about...        | Clarification   | ⭐⭐⭐⭐⭐ |
+| Elaborate on the benefits of...            | Elaboration     | ⭐⭐⭐⭐   |
+| Simplify the complex idea of...            | Simplification  | ⭐⭐⭐⭐⭐ |
+| Discuss the potential risks of...          | Discussion      | ⭐⭐⭐⭐   |
+| Provide tips for...                        | Tips            | ⭐⭐⭐⭐⭐ |
+| Translate the text from... to...           | Translation     | ⭐⭐⭐⭐   |
+| Generate ideas for...                      | Idea generation | ⭐⭐⭐⭐⭐ |
+| Rank the top... based on...                | Ranking         | ⭐⭐⭐⭐   |
+| Explain the relationship between... and... | Relationship    | ⭐⭐⭐⭐⭐ |
+| Offer advice on...                         | Advice          | ⭐⭐⭐⭐   |
+| Create a compelling argument for...        | Argument        | ⭐⭐⭐⭐⭐ |
+| Identify the root cause of...              | Root cause      | ⭐⭐⭐⭐   |
+| Summarize the main points of...            | Summary         | ⭐         |
+| Provide an overview of...                  | Overview        | ⭐⭐⭐⭐   |
+| Interpret the meaning of...                | Interpretation  | ⭐⭐⭐⭐⭐ |
+| Illustrate the concept of... with examples | Illustration    | ⭐⭐⭐⭐   |
+| Formulate a hypothesis for...              | Hypothesis      | ⭐⭐⭐⭐⭐ |
+| Assess the viability of...                 | Assessment      | ⭐⭐⭐⭐   |
+| Recommend best practices for...            | Recommendation  | ⭐⭐⭐⭐⭐ |
+| Explain the significance of...             | Significance    | ⭐⭐⭐⭐   |
+| Provide a brief history of...              | History         | ⭐⭐⭐⭐⭐ |
+| Design a solution for...                   | Design          | ⭐⭐⭐⭐   |
+| Identify trends in...                      | Trends          | ⭐⭐⭐⭐⭐ |
+| Define the key terms related to...         | Definition      | ⭐⭐⭐⭐   |
+| Provide examples of...                     | Examples        | ⭐⭐⭐⭐⭐ |
+| Determine the factors that influence...    | Factors         | ⭐⭐⭐⭐   |
+| Highlight the essential elements of...     | Highlight       | ⭐⭐⭐⭐⭐ |
+| Develop a framework for...                 | Framework       | ⭐⭐⭐⭐   |
+| Synthesize information from...             | Synthesis       | ⭐⭐⭐⭐⭐ |
+| Identify the limitations of...             | Limitations     | ⭐⭐⭐⭐   |
+| Provide a case study on...                 | Case study      | ⭐⭐⭐⭐⭐ |
+| Offer insights into...                     | Insights        | ⭐⭐⭐⭐   |
+| Examine the role of...                     | Examination     | ⭐⭐⭐⭐⭐ |
