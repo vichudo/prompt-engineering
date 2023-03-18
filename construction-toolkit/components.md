@@ -198,7 +198,6 @@ Choose from 50 different output format examples to guide the AI's understanding 
 | Provide a list of pros and cons                   | List           | ⭐⭐⭐⭐⭐ |
 | Draft a speech                                    | Speech         | ⭐⭐⭐⭐   |
 | Write a how-to tutorial                           | Tutorial       | ⭐⭐⭐⭐   |
-| Write a how-to tutorial                           | Tutorial       | ⭐⭐⭐⭐⭐ |
 | Create a mock interview                           | Interview      | ⭐⭐⭐⭐   |
 | Write an annotated bibliography                   | Bibliography   | ⭐⭐⭐⭐⭐ |
 | Provide a list of best practices                  | Best practices | ⭐⭐⭐⭐   |
@@ -218,3 +217,61 @@ Choose from 50 different output format examples to guide the AI's understanding 
 | Write a user guide                                | User guide     | ⭐⭐⭐⭐   |
 | Create a concept map                              | Concept map    | ⭐⭐⭐⭐⭐ |
 | Write an elevator pitch                           | Pitch          | ⭐⭐⭐⭐   |
+
+# Master Prompt Examples
+
+Use these 50 different master prompt examples as a starting point for creating your own custom prompts. These prompts contain all four fundamental blocks: context, goal, constraints, and output format. Inputs that need to be specified are highlighted with `<input>` tags.
+
+## Complete Prompts
+
+| Context                                | Goal                                    | Constraints                                 | Output Format                                                                                                | Quality      |
+| -------------------------------------- | --------------------------------------- | ------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ------------ |
+| As a data scientist working in `input` | Analyze the trends in `input` over time | Using only the data from the last 5 years   | In the context of `input`, analyze the trends in `input` over time using only the data from the last 5 years | ⭐️⭐️⭐️⭐️ |
+| In the context of `input`              | Develop a strategy for `input`          | In 3 steps                                  | In the context of `input`, develop a strategy for `input` in 3 steps                                         | ⭐️⭐️⭐️    |
+| As a software engineer                 | Write a how-to guide for `input`        | With a code example                         | As a software engineer, write a how-to guide for `input` with a code example                                 | ⭐️⭐️⭐️⭐️ |
+| As a machine learning researcher       | Summarize the key findings from `input` | In no more than 3 paragraphs                | As a machine learning researcher, summarize the key findings from `input` in no more than 3 paragraphs       | ⭐️⭐️       |
+| As a marketing specialist              | Create a marketing campaign for `input` | Focused on the `input` target audience      | As a marketing specialist, create a marketing campaign for `input` focused on the `input` target audience    | ⭐️⭐️⭐️⭐️ |
+| In the context of `input`              | Explain the benefits of `input`         | In a video format                           | In the context of `input`, explain the benefits of `input` in a video format                                 | ⭐️⭐️⭐️    |
+| As a student                           | Write a research paper on `input`       | Using only peer-reviewed sources            | As a student, write a research paper on `input` using only peer-reviewed sources                             | ⭐️⭐️⭐️⭐️ |
+| In the context of `input`              | Create a data visualization for `input` | Using only open-source tools                | In the context of `input`, create a data visualization for `input` using only open-source tools              | ⭐️⭐️⭐️    |
+| As a business analyst                  | Provide a SWOT analysis for `input`     | Focused on the `input` market segment       | As a business analyst, provide a SWOT analysis for `input` focused on the `input` market segment             | ⭐️⭐️⭐️⭐️ |
+| As a software developer                | Debug and fix the errors in `input`     | Using only the `input` programming language | As a software developer, debug and fix the errors in `input` using only the `input` programming language     | ⭐️⭐️⭐️    |
+| In the context of `input`              | Design a logo for `input`               | Using only black and white colors           | In the context of `input`, design a logo for `input` using only black and white colors                       | ⭐️⭐️       |
+| As a UI designer                       | Create a wireframe for `input`          | Using a mobile-first approach               | As a UI designer, create a wireframe for `input` using a mobile-first approach                               | ⭐️⭐️⭐️    |
+
+## Complete Prompts for Developers
+
+| Context                                | Goal                                      | Constraints                                  | Output Format                                                                                                           | Quality      |
+| -------------------------------------- | ----------------------------------------- | -------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | ------------ |
+| As a software engineer                 | Write a unit test for `input`             | Using only the `input` programming language  | As a software engineer, write a unit test for `input` using only the `input` programming language                       | ⭐️⭐️⭐️    |
+| In the context of `input`              | Implement a responsive design for `input` | Using only CSS Grid and Flexbox              | In the context of `input`, implement a responsive design for `input` using only CSS Grid and Flexbox                    | ⭐️⭐️⭐️⭐️ |
+| As a front-end developer using ReactJS | Build a responsive website with `input`   | Using only ReactJS components                | As a front-end developer using ReactJS, build a responsive website with `input` using only ReactJS components           | ⭐️⭐️⭐️⭐️ |
+| As a full-stack developer using MERN   | Build a CRUD application for `input`      | Using only MongoDB, Express, React, and Node | As a full-stack developer using MERN, build a CRUD application for `input` using only MongoDB, Express, React, and Node | ⭐️⭐️⭐️⭐️ |
+
+## Complete Prompts for UI/UX Designers
+
+| Context                   | Goal                                 | Constraints                                            | Output Format                                                                                                       | Quality      |
+| ------------------------- | ------------------------------------ | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------- | ------------ |
+| As a UI/UX designer       | Create a user flow for `input`       | Focused on the mobile user experience                  | As a UI/UX designer, create a user flow for `input` focused on the mobile user experience                           | ⭐️⭐️⭐️⭐️ |
+| In the context of `input` | Design a user interface for `input`  | Using only Adobe XD                                    | In the context of `input`, design a user interface for `input` using only Adobe XD                                  | ⭐️⭐️⭐️    |
+| As a UI/UX designer       | Conduct a usability test for `input` | On users aged 60 and above                             | As a UI/UX designer, conduct a usability test for `input` on users aged 60 and above                                | ⭐️⭐️⭐️    |
+| In the context of `input` | Design a logo for `input`            | Using only black and white colors                      | In the context of `input`, design a logo for `input` using only black and white colors                              | ⭐️⭐️       |
+| As a UI/UX designer       | Create a wireframe for `input`       | Using a mobile-first approach                          | As a UI/UX designer, create a wireframe for `input` using a mobile-first approach                                   | ⭐️⭐️⭐️    |
+| In the context of `input` | Design a landing page for `input`    | Using the F-pattern layout and a limited color palette | In the context of `input`, design a landing page for `input` using the F-pattern layout and a limited color palette |
+
+## Complete Prompts For Music Producers
+
+| Context                   | Goal                                         | Constraints                             | Output Format                                                                                      | Quality      |
+| ------------------------- | -------------------------------------------- | --------------------------------------- | -------------------------------------------------------------------------------------------------- | ------------ |
+| As a music producer       | Create a chord progression for `input`       | Using only the `input` key signature    | As a music producer, create a chord progression for `input` using only the `input` key signature   | ⭐️⭐️⭐️    |
+| In the context of `input` | Explain the concept of `input`               | In under 2 minutes                      | In the context of `input`, explain the concept of `input` in under 2 minutes                       | ⭐️⭐️       |
+| As a music producer       | Mix a track in the `input` genre             | Using only the `input` plugins          | As a music producer, mix a track in the `input` genre using only the `input` plugins               | ⭐️⭐️⭐️    |
+| In the context of `input` | Analyze the lyrics of `input`                | In a written report                     | In the context of `input`, analyze the lyrics of `input` and provide a written report              | ⭐️⭐️⭐️    |
+| As a music producer       | Create a beat using only `input`             | In under 10 minutes                     | As a music producer, create a beat using only `input` in under 10 minutes                          | ⭐️⭐️⭐️    |
+| In the context of `input` | Explain the history of `input`               | In no more than 500 words               | In the context of `input`, explain the history of `input` in no more than 500 words                | ⭐️⭐️       |
+| As a music producer       | Master a track for commercial release        | Using only `input` mastering techniques | As a music producer, master a track for commercial release using only `input` mastering techniques | ⭐️⭐️⭐️⭐️ |
+| In the context of `input` | Create a melody for `input`                  | Using only the `input` scale            | In the context of `input`, create a melody for `input` using only the `input` scale                | ⭐️⭐️⭐️    |
+| As a music producer       | Produce a track for `input`                  | In the style of `input`                 | As a music producer, produce a track for `input` in the style of `input`                           | ⭐️⭐️⭐️    |
+| In the context of `input` | Analyze the harmonic structure of `input`    | In a video format                       | In the context of `input`, analyze the harmonic structure of `input` and present in a video format | ⭐️⭐️⭐️    |
+| As a music producer       | Create a bassline for `input`                | Using only the `input` tempo and key    | As a music producer, create a bassline for `input` using only the `input` tempo and key            | ⭐️⭐️⭐️    |
+| In the context of `input` | Explain the significance of `input` in music | In under 3 minutes                      | In the context of `input`, explain the significance of `input` in music in under 3 minutes         | ⭐️⭐️       |
