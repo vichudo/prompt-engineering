@@ -109,3 +109,56 @@ Choose from 50 different goal examples to guide the AI's understanding of the de
 | Provide a case study on...                 | Case study      | ⭐⭐⭐⭐⭐ |
 | Offer insights into...                     | Insights        | ⭐⭐⭐⭐   |
 | Examine the role of...                     | Examination     | ⭐⭐⭐⭐⭐ |
+
+# Constraint Examples
+
+Choose from 50 different constraint examples to guide the AI's understanding of the limitations or requirements of the prompt. Mix and match these components with other prompt elements to achieve the desired results.
+
+| Constraint                                               | Category        | Quality    |
+| -------------------------------------------------------- | --------------- | ---------- |
+| Limit the response to... words/characters                | Length          | ⭐⭐⭐⭐⭐ |
+| Use only peer-reviewed sources                           | Source          | ⭐⭐⭐⭐   |
+| Write from the perspective of...                         | Perspective     | ⭐⭐⭐⭐⭐ |
+| Use only examples from the last... years                 | Time            | ⭐⭐⭐⭐   |
+| Avoid using jargon or technical terms                    | Language        | ⭐⭐⭐⭐⭐ |
+| Write for a... grade level audience                      | Audience        | ⭐⭐⭐⭐   |
+| Do not mention any specific brands or companies          | Brands          | ⭐⭐⭐⭐⭐ |
+| Focus on... region/country                               | Location        | ⭐⭐⭐⭐   |
+| Exclude any personal opinions                            | Opinion         | ⭐⭐⭐⭐⭐ |
+| Consider only... type of sources                         | Source          | ⭐⭐⭐⭐   |
+| Address only the ethical aspects of...                   | Focus           | ⭐⭐⭐⭐⭐ |
+| Use a neutral tone                                       | Tone            | ⭐⭐⭐⭐   |
+| Include at least... examples                             | Examples        | ⭐⭐⭐⭐⭐ |
+| Stick to the facts and avoid speculation                 | Facts           | ⭐⭐⭐⭐   |
+| Use only open-source tools                               | Tools           | ⭐⭐⭐⭐⭐ |
+| Prioritize cost-effectiveness                            | Cost            | ⭐⭐⭐⭐   |
+| Do not include any personal anecdotes                    | Anecdotes       | ⭐⭐⭐⭐⭐ |
+| Cite all sources used                                    | Citation        | ⭐⭐⭐⭐   |
+| Only discuss solutions that are environmentally friendly | Environment     | ⭐⭐⭐⭐⭐ |
+| Focus on the most recent developments in...              | Developments    | ⭐⭐⭐⭐   |
+| Write as if addressing... (e.g., a CEO, a student)       | Addressing      | ⭐⭐⭐⭐⭐ |
+| Emphasize the practical applications of...               | Application     | ⭐⭐⭐⭐   |
+| Do not discuss... topic/aspect                           | Exclusion       | ⭐⭐⭐⭐⭐ |
+| Limit the discussion to... industry/sector               | Industry        | ⭐⭐⭐⭐   |
+| Focus on the positive aspects of...                      | Positivity      | ⭐⭐⭐⭐⭐ |
+| Avoid making any assumptions about...                    | Assumptions     | ⭐⭐⭐⭐   |
+| Use a conversational tone                                | Tone            | ⭐⭐⭐⭐⭐ |
+| Address only the technical aspects of...                 | Focus           | ⭐⭐⭐⭐   |
+| Use a formal writing style                               | Style           | ⭐⭐⭐⭐⭐ |
+| Only consider solutions that are easy to implement       | Implementation  | ⭐⭐⭐⭐   |
+| Discuss the long-term implications of...                 | Long-term       | ⭐⭐⭐⭐⭐ |
+| Avoid using negative language                            | Language        | ⭐⭐⭐⭐   |
+| Focus on the psychological aspects of...                 | Psychology      | ⭐⭐⭐⭐⭐ |
+| Do not make any predictions                              | Prediction      | ⭐⭐⭐⭐   |
+| Use a problem-solving approach                           | Approach        | ⭐⭐⭐⭐⭐ |
+| Concentrate on the economic factors of...                | Economics       | ⭐⭐⭐⭐   |
+| Write as if explaining to a non-expert                   | Audience        | ⭐⭐⭐⭐⭐ |
+| Include relevant statistics and data                     | Data            | ⭐⭐⭐⭐   |
+| Focus on the social impact of...                         | Impact          | ⭐⭐⭐⭐⭐ |
+| Prioritize user experience                               | User experience | ⭐⭐⭐⭐   |
+| Use an optimistic tone                                   | Tone            | ⭐⭐⭐⭐⭐ |
+| Avoid discussing... sensitive topic/issue                | Sensitivity     | ⭐⭐⭐⭐   |
+| Emphasize the scientific aspects of...                   | Science         | ⭐⭐⭐⭐⭐ |
+| Do not use any abbreviations or acronyms                 | Language        | ⭐⭐⭐⭐   |
+| Include real-world examples                              | Examples        | ⭐⭐⭐⭐⭐ |
+| Do not reference any specific events or news stories     | References      | ⭐⭐⭐⭐   |
