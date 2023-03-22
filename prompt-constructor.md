@@ -11,7 +11,7 @@ Construct master prompts using four fundamental blocks to create tailored and ef
 - [Block 4: Output Format](#block-4-output-format)
 - [Master Prompt Construction](#master-prompt-construction)
 
-## Check here for examples of each block
+## Check here for examples of each block ⭐️
 - [Examples of Context, Goal, Constraints, Output Format, Construction](https://github.com/vichudo/prompt-engineering/blob/main/construction-toolkit/components.md)
 
 ---
