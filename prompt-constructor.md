@@ -2,6 +2,7 @@
 
 Construct master prompts using four fundamental blocks to create tailored and effective prompts for AI language models like GPT-4. Mix and match these components to achieve the desired results.
 
+
 ## Table of Contents
 
 - [Block 1: Context](#block-1-context)
@@ -9,6 +10,9 @@ Construct master prompts using four fundamental blocks to create tailored and ef
 - [Block 3: Constraints](#block-3-constraints)
 - [Block 4: Output Format](#block-4-output-format)
 - [Master Prompt Construction](#master-prompt-construction)
+
+## Check here for examples of each block
+- [Examples of Context, Goal, Constraints, Output Format, Construction](https://github.com/vichudo/prompt-engineering/blob/main/construction-toolkit/components.md)
 
 ---
 
